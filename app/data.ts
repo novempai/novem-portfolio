@@ -29,7 +29,7 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Motion Primitives Pro',
+    name: 'MEEC Website UI Design',
     description:
       'Advanced components and templates to craft beautiful websites.',
     link: 'https://pro.motion-primitives.com/',
@@ -50,26 +50,26 @@ export const PROJECTS: Project[] = [
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Freelance',
-    title: 'UI & Visual Designer',
+    title: 'UI/UX Designer',
     start: '2024',
     end: 'Present',
     link: '#',
     id: 'work1',
   },
   {
-    company: 'Freelance',
-    title: 'Design Engineer',
-    start: '2022',
-    end: '2024',
-    link: 'https://ibelick.com',
+    company: 'Nexcode',
+    title: 'UI/UX Designer',
+    start: '2020',
+    end: '2023',
+    link: '#',
     id: 'work2',
   },
   {
-    company: 'Freelance',
-    title: 'Front-end Developer',
-    start: '2017',
-    end: 'Present',
-    link: 'https://ibelick.com',
+    company: 'DigitalBase',
+    title: 'Lead UI/UX Designer',
+    start: '2022',
+    end: '2023',
+    link: '#',
     id: 'work3',
   },
 ]
@@ -106,20 +106,16 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/ibelick',
+    link: 'https://github.com/novempai',
   },
   {
-    label: 'Twitter',
-    link: 'https://twitter.com/ibelick',
+    label: 'Dribbble',
+    link: 'https://dribbble.com/novempai',
   },
   {
     label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/ibelick',
-  },
-  {
-    label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
+    link: 'https://www.linkedin.com/in/novempai/',
   },
 ]
 
-export const EMAIL = 'your@email.com'
+export const EMAIL = 'novempai@email.com'
