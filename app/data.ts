@@ -29,7 +29,7 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'MEEC Website UI Design',
+    name: 'MEEC Website Design',
     description:
       'Advanced components and templates to craft beautiful websites.',
     link: 'https://pro.motion-primitives.com/',
