@@ -137,7 +137,8 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            I am a UI/UX and Visual designer dedicated to creating simple, intuitive, and meaningful designs. 
+            I am a UI/UX and Visual designer dedicated to creating simple, intuitive, and meaningful designs 
+            that provide valuable solutions for both businesses and users.
           </p>
         </div>
       </motion.section>
