@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
     description:
       'Designed a responsive and accessible website for the MEEC, enhancing user experience and engagement for a diverse audience.',
     link: 'https://meec-web.vercel.app/en',
-    image: '/images/meec.jpg',
+    image: '/meec.jpg',
     id: 'project1',
   },
   {
