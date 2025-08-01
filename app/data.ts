@@ -35,32 +35,28 @@ export const PROJECTS: Project[] = [
     description:
       'Designed a responsive and accessible website for the MEEC, enhancing user experience and engagement for a diverse audience.',
     link: 'https://meec-web.vercel.app/en',
-    image:
-      'images/meec.jpg',
+    image: '/images/meec.jpg',
     id: 'project1',
   },
   {
     name: 'AirBurma',
     description: 'A web application for AirBurma, using Carbon Design System to create a modern and user-friendly interface.',
     link: 'https://motion-primitives.com/',
-    image:
-      '/cover2.jpg',
+    image: '/cover2.jpg',
     id: 'project2',
   },
    {
     name: 'Motion Primitives',
     description: 'UI kit to make beautiful, animated interfaces.',
     link: 'https://motion-primitives.com/',
-    image:
-      '/cover3.jpg',
+    image: '/cover3.jpg',
     id: 'project2',
   },
    {
     name: 'Motion Primitives',
     description: 'UI kit to make beautiful, animated interfaces.',
     link: 'https://motion-primitives.com/',
-    image:
-      '/cover4.jpg',
+    image: '/cover4.jpg',
     id: 'project2',
   },
 ]
