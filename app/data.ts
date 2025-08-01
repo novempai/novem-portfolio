@@ -4,7 +4,7 @@ type Project = {
   name: string
   description: string
   link: string
-  video: string
+  image: string
   id: string
 }
 
@@ -34,33 +34,33 @@ export const PROJECTS: Project[] = [
     name: 'Myanmar Earthquake Engineering Community',
     description:
       'Designed a responsive and accessible website for the MEEC, enhancing user experience and engagement for a diverse audience.',
-    link: 'https://pro.motion-primitives.com/',
-    video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
+    link: 'https://meec-web.vercel.app/en',
+    image:
+      'images/meec.jpg',
     id: 'project1',
   },
   {
     name: 'AirBurma',
     description: 'A web application for AirBurma, using Carbon Design System to create a modern and user-friendly interface.',
     link: 'https://motion-primitives.com/',
-    video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
+    image:
+      '/cover2.jpg',
     id: 'project2',
   },
    {
     name: 'Motion Primitives',
     description: 'UI kit to make beautiful, animated interfaces.',
     link: 'https://motion-primitives.com/',
-    video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
+    image:
+      '/cover3.jpg',
     id: 'project2',
   },
    {
     name: 'Motion Primitives',
     description: 'UI kit to make beautiful, animated interfaces.',
     link: 'https://motion-primitives.com/',
-    video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
+    image:
+      '/cover4.jpg',
     id: 'project2',
   },
 ]
@@ -123,8 +123,8 @@ export const BLOG_POSTS: BlogPost[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    label: 'Github',
-    link: 'https://github.com/novempai',
+    label: 'Behance',
+    link: 'https://www.behance.net/novempai',
   },
   {
     label: 'Dribbble',
